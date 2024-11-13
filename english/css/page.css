@@ -1,3 +1,17 @@
 div h1 {color : #00f ;}
 div  *　{font-family: sans-serif}
-* {font-size: xx-large}
+/* * {font-size: xx-large} */
+
+/* Apply a large font size to all elements */
+* {
+    font-size: 24px;
+}
+
+/* Alternatively, you can define specific font sizes for headers, paragraphs, etc. */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.5em;
+}
