@@ -14,7 +14,7 @@ div  *　{font-family: sans-serif}
 
 /* Apply a large font size to all elements */
 * {
-    font-size: 24px;
+    font-size: 12px;
 }
 
 /* Alternatively, you can define specific font sizes for headers, paragraphs, etc. */
@@ -23,11 +23,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 12px;
 }
 
 ul {
-  padding-left: 10px;
+  padding-left: 30px;
   padding-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px
