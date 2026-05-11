@@ -35,7 +35,7 @@ My CV is [here](pdf/cv_20260416.pdf).
 My research interests lie in Algebraic geometry and related fields. 
 In particular,
 * Noncommutative Algebraic Geometry / Generalized complex geometry
-* Derived Categories, Moduli spaces of sheaves
+* Derived Categories of coherent sheaves, Moduli spaces of sheaves
 * Calabi-Yau manifolds, Mirror symmetry
 * Derived algebraic geometry
 
