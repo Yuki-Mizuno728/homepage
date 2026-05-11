@@ -18,14 +18,14 @@ title: 'Home'
   */
 </style>
 
-<img src="/images/myself2026.jpeg" style="float: right; width: 180px; margin-left: 20px; border-radius: 8px;">
+<img src="images/myself2026.jpeg" style="float: right; width: 180px; margin-left: 20px; border-radius: 8px;">
 
 ### Yuki Mizuno (水野 雄貴)
 <!-- **Postdoctoral Researcher** [Mathematical Institute, Utrecht University](https://www.uu.nl/en/organisation/mathematical-institute) -->
 
 I am a postdoctoral researcher at Utrecht University in the Netherlands in the research group of Pieter Belmans from February 2026.
 Previously, I was an assistant professor at Waseda University in Tokyo, Japan from October 2024 to January 2026.
-My CV is [here](/pdf/cv_20260416.pdf).
+My CV is [here](pdf/cv_20260416.pdf).
 <!-- My research interests lie in Algebraic geometry and related fields.
  In particular, I am interested in noncommutative algebraic geometry, moduli spaces of sheaves, derived categories, derived algebraic geometry, generalized complex geometry, Calabi-Yau manifolds and Mirror symmetry. -->
 		 
