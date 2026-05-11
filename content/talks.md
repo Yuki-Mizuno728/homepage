@@ -76,6 +76,8 @@ Here is the list of my previous talks.
 
 **Seminar/Conference Organization**
 
+Here is the list of seminars or conferences which I am organizing or organized.
+
 | Date | Event | Location |
 | :--- | :--- | :--- |
 | Aug 21–23, 2024 | The 5th Utsunomiya University Symposium on Algebraic Geometry | Utsunomiya University |
