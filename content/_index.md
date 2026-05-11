@@ -44,3 +44,5 @@ In particular,
 
  y.mizuno[at]uu.nl &ensp;or&ensp;  m7d5932a72xxgxo[at]fuji.waseda.jp<br>	
 [at] should be replaced with @. (mizuno.y[at]aoni.waseda.jp is no longer available)
+
+{{< lastmod >}}
