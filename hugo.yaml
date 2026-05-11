@@ -1,0 +1,48 @@
+baseURL: https://example.org/
+locale: en-us
+title: Yuki Mizuno's Personal Website
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: false #いったんは非表示にしておきます
+    title: "Yuki Mizuno (水野 雄貴)"
+    subtitle: "Postdoctoral Researcher in Mathematics, Utrecht University"
+    displayFullDisp: true
+    imageUrl: "/images/myself2026.jpeg"
+    imageWidth: 150
+    imageHeight: 150
+    imageDisplay: "inline" # これでテキストと並びやすくなります
+    buttons:
+      - name: CV
+        url: "/cv/"
+      - name: Papers
+        url: "/papers/"
+    ShowLastMod: true # 最終更新日を表示する設定
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 10
+    - name: "About me"
+      url: "/cv/"
+      weight: 20
+    - name: "Papers"
+      url: "/papers/"
+      weight: 30
+    - name: "Talks"
+      url: "/talks/"
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # これでHTMLタグが有効になります
+
+enableGitInfo: true # Gitを使っている場合、コミット時間を最終更新日として使用します
+
+frontmatter:
+  lastmod: [":git", "lastmod", ":fileModTime", "date"]
+
+  

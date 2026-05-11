@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Yuki Mizuno&#39;s Personal Website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Yuki Mizuno&#39;s Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2026 12:38:17 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Sun, 10 May 2026 23:41:42 +0200</pubDate>
+      <guid>http://localhost:1313/talks/</guid>
+      <description>&lt;style&gt;
+  /* 1. カウンターの修正（見出しを飛ばして中身だけ数える） */
+  .talks-table table tbody {
+    counter-reset: rowNumber; 
+  }
+  .talks-table table tbody tr {
+    counter-increment: rowNumber;
+  }
+  .talks-table table tbody tr td:first-child::before {
+    content: counter(rowNumber);
+    display: block;
+    text-align: center;
+    color: #888;
+  }
+
+  /* 2. 横幅を広げる設定 */
+  /* サイトのメインコンテナ自体の幅を広げます（標準は720px程度） */
+  .main {
+    max-width: 1000px !important; 
+  }
+  
+  .talks-table table {
+    width: 100%;
+    table-layout: auto; /* コンテンツに合わせて調整 */
+  }
+
+  /* 表のフォントサイズを少し小さくして収まりを良くする（任意） */
+  .talks-table table {
+    font-size: 1rem;
+  }
+&lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;List of talks&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Papers</title>
+      <link>http://localhost:1313/papers/</link>
+      <pubDate>Sun, 10 May 2026 23:41:35 +0200</pubDate>
+      <guid>http://localhost:1313/papers/</guid>
+      <description>&lt;style&gt;
+ /* 2. 横幅を広げる設定 */
+  /* サイトのメインコンテナ自体の幅を広げます（標準は720px程度） */
+  .main {
+    max-width: 1000px !important; 
+  }
+  
+  /* 表のフォントサイズを少し小さくして収まりを良くする（任意） 
+  .talks-table table {
+    font-size: 1rem;
+  }
+  */
+&lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;Papers/Preprints&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here is the list of my papers and preprints&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dualizing complexes over Z-algebras:  &lt;a href=&#34;http://localhost:1313/papers/pdf/paper5-6_overleaf.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2509.13073&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bridgeland Stability of Sheaves on del Pezzo Surfaces of Picard Rank Three :  &lt;!--&lt;a href=&#34;pdf/paper4-5.pdf &#34;&gt; PDF&lt;/a&gt;,--&gt; &lt;a href=&#34;https://arxiv.org/abs/2502.18894&#34;&gt;arXiv&lt;/a&gt;, (joint work with Tomoki Yoshida)&lt;/li&gt;
+&lt;li&gt;Bondal-Orlov’s reconstruction theorem in noncommutative projective geometry: &lt;a href=&#34;http://localhost:1313/papers/pdf/paper4-5.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2411.07813&#34;&gt;arXiv&lt;/a&gt;
+ &lt;!-- 非可換射影スキームの導来圏の間の忠実充満な三角関手がFourier-Mukai型であることを示し，それを用いて，非可換射影幾何学においてBondal-Orlovのreconstructionが成立することを示しました．--&gt;
+&lt;/li&gt;
+&lt;li&gt;An explicit construction of the derived moduli stack of Harder-Narasimhan filtrations:  &lt;a href=&#34;http://localhost:1313/papers/pdf/2mizuno1-1.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2202.07494&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Some examples of noncommutative projective Calabi-Yau schemes, &lt;a href=&#34;https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/some-examples-of-noncommutative-projective-calabiyau-schemes/C3CA669551172DDA59085639A0D3A6E1&#34;&gt;Canad. Math. Bull, vol 67 p706-p726&lt;/a&gt;: &lt;a href=&#34;http://localhost:1313/papers/pdf/main.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2209.12190&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Classifying the irreducible components of moduli stacks of torsion free sheaves on K3 surfaces and an application to Brill-Noether theory, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0393044022001577%22&#34;&gt;J. Geom. Phys 179 (2022)&lt;/a&gt;: &lt;a href=&#34;pdf/mizuno1.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2011.07521&#34;&gt;arXiv&lt;/a&gt;
+ &lt;!--	&lt;a href=&#34;https://authors.elsevier.com/a/1fIIn1PNYnJ-%7Ef&#34;&gt;こちら&lt;/a&gt;から8/12まで見れます．--&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;In preparation&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 10 May 2026 23:41:31 +0200</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;style&gt;
+ /* 2. 横幅を広げる設定 */
+  /* サイトのメインコンテナ自体の幅を広げます（標準は720px程度） */
+  .main {
+    max-width: 1000px !important; 
+  }
+  
+  /* 表のフォントサイズを少し小さくして収まりを良くする（任意） 
+  .talks-table table {
+    font-size: 1rem;
+  }
+  */
+&lt;/style&gt;
+&lt;p&gt;Here is brief introduction of me．
+The complete my CV is &lt;a href=&#34;http://localhost:1313/pdf/cv_20260416.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Short CV&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Period&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Organization / Position&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Feb 2026 &amp;ndash;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Utrecht University, Postdoctoral Researcher&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 2024 &amp;ndash; Jan 2026&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Waseda University, Assistant Professor (non-tenure)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Apr 2024 &amp;ndash; Sep 2024&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Waseda University, Research Associate&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 2024&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Waseda University, Ph.D. in Mathematics&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Experience&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
