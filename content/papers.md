@@ -23,12 +23,12 @@ title: 'Papers'
 
 Here is the list of my papers and preprints 
 
- 1. Dualizing complexes over Z-algebras:  [pdf](/papers/pdf/paper5-6_overleaf.pdf), [arXiv](https://arxiv.org/abs/2509.13073) 
+ 1. Dualizing complexes over Z-algebras:  [pdf](papers/pdf/paper5-6_overleaf.pdf), [arXiv](https://arxiv.org/abs/2509.13073) 
 1. Bridgeland Stability of Sheaves on del Pezzo Surfaces of Picard Rank Three :  <!--<a href="pdf/paper4-5.pdf "> PDF</a>,--> [arXiv](https://arxiv.org/abs/2502.18894), (joint work with Tomoki Yoshida)
-1. Bondal-Orlov’s reconstruction theorem in noncommutative projective geometry: [pdf](/papers/pdf/paper4-5.pdf), [arXiv](https://arxiv.org/abs/2411.07813)
+1. Bondal-Orlov’s reconstruction theorem in noncommutative projective geometry: [pdf](papers/pdf/paper4-5.pdf), [arXiv](https://arxiv.org/abs/2411.07813)
 	<!-- 非可換射影スキームの導来圏の間の忠実充満な三角関手がFourier-Mukai型であることを示し，それを用いて，非可換射影幾何学においてBondal-Orlovのreconstructionが成立することを示しました．-->
-1. An explicit construction of the derived moduli stack of Harder-Narasimhan filtrations:  [pdf](/papers/pdf/2mizuno1-1.pdf), [arXiv](https://arxiv.org/abs/2202.07494)
-1. Some examples of noncommutative projective Calabi-Yau schemes, [Canad. Math. Bull, vol 67 p706-p726](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/some-examples-of-noncommutative-projective-calabiyau-schemes/C3CA669551172DDA59085639A0D3A6E1): [pdf](/papers/pdf/main.pdf), [arXiv](https://arxiv.org/abs/2209.12190)
+1. An explicit construction of the derived moduli stack of Harder-Narasimhan filtrations:  [pdf](papers/pdf/2mizuno1-1.pdf), [arXiv](https://arxiv.org/abs/2202.07494)
+1. Some examples of noncommutative projective Calabi-Yau schemes, [Canad. Math. Bull, vol 67 p706-p726](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/some-examples-of-noncommutative-projective-calabiyau-schemes/C3CA669551172DDA59085639A0D3A6E1): [pdf](papers/pdf/main.pdf), [arXiv](https://arxiv.org/abs/2209.12190)
 1. Classifying the irreducible components of moduli stacks of torsion free sheaves on K3 surfaces and an application to Brill-Noether theory, [J. Geom. Phys 179 (2022)](https://www.sciencedirect.com/science/article/pii/S0393044022001577"): [pdf](pdf/mizuno1.pdf), [arXiv](https://arxiv.org/abs/2011.07521)
 	<!--	<a href="https://authors.elsevier.com/a/1fIIn1PNYnJ-%7Ef">こちら</a>から8/12まで見れます．-->
 

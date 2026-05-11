@@ -47,27 +47,27 @@ Here is the list of my previous talks.
 | | Apr 13, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Disquisitions on Monoidal Categories and Operads, BIMSA |
 | | Mar 10, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Algebraic Geometry Seminar, Utrecht University |
 | | Feb 23, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Paris algebra seminar, Institut Henri Poincaré |
-| | Jan 19–23, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Deformations and Birational Geometry of Algebraic Varieties, RIMS [[slide](/talk/pdf/rims.pdf)] |
+| | Jan 19–23, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Deformations and Birational Geometry of Algebraic Varieties, RIMS [[slide](talk/pdf/rims.pdf)] |
 | | Dec 15–19, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Workshop on Mirror symmetry and Related Topics, Kyoto University |
-| | Jul 14 – Aug 1, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | 2025 Summer Research Institute in Algebraic Geometry, Colorado State University [[slide](/talk/pdf/mizuno_week2_roomA-ver2.pdf)] |
-| | Jul 5–6, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Calabi–Yau Varieties and Related Topics 2025, Tsuda University [[slide](/talk/pdf/tsuda2.pdf)] |
-| | Mar 18–21, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | The Mathematical Society of Japan, Spring Meeting 2025 [[slide](/talk/pdf/waseda2-2.pdf)] |
-| | Mar 3–7, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Hokkaido University [[report](/talk/pdf/mizuno_yuki.pdf)] [[slide](/talk/pdf/hokkaido4_round.pdf)] |
+| | Jul 14 – Aug 1, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | 2025 Summer Research Institute in Algebraic Geometry, Colorado State University [[slide](talk/pdf/mizuno_week2_roomA-ver2.pdf)] |
+| | Jul 5–6, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Calabi–Yau Varieties and Related Topics 2025, Tsuda University [[slide](talk/pdf/tsuda2.pdf)] |
+| | Mar 18–21, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | The Mathematical Society of Japan, Spring Meeting 2025 [[slide](talk/pdf/waseda2-2.pdf)] |
+| | Mar 3–7, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Hokkaido University [[report](/talk/pdf/mizuno_yuki.pdf)] [[slide](talk/pdf/hokkaido4_round.pdf)] |
 | | Aug 21–23, 2024 | Bridgeland moduli spaces of a del Pezzo surface of Picard rank 3 | 5th Utsunomiya University Algebraic Geometry Workshop |
 | | Nov 20, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | Osaka Algebraic Geometry Seminar, Osaka University |
 | | Jul 3–7, 2023 | The Projectivity of Bridgeland Moduli Spaces of del Pezzo Surface of Picard Rank Three, Derived Categories, Moduli Spaces, and Counting Invariants | Imperial College London (Poster presentation) |
 | | Jun 12, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | Singularity Seminar, Nihon University |
 | | May 12, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | Tohoku Algebra Seminar, Tohoku University |
 | | Mar 2023 | Some examples of noncommutative projective Calabi–Yau schemes | 27th Algebra Workshop for Young Researchers, Tsukuba University |
-| | Mar 22–24, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | 10th (Non)commutative Algebra and Topology Workshop [[slide](/talk/pdf/shinsyu2023.pdf)] |
-| | Mar 15–18, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | Annual Meeting of the Mathematical Society of Japan 2023 [[slide](/talk/pdf/suugakukai2023.pdf)] |
+| | Mar 22–24, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | 10th (Non)commutative Algebra and Topology Workshop [[slide](talk/pdf/shinsyu2023.pdf)] |
+| | Mar 15–18, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | Annual Meeting of the Mathematical Society of Japan 2023 [[slide](talk/pdf/suugakukai2023.pdf)] |
 | | Feb 28 – Mar 2, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | 4th Utsunomiya Algebraic Geometry Workshop |
 | | Mar 2022 | An explicit construction of derived moduli stacks of Harder–Narasimhan filtrations | Annual Meeting of the Mathematical Society of Japan 2022 |
-| | Mar 2022 | An explicit construction of derived moduli stacks of Harder–Narasimhan filtrations | 3rd Utsunomiya Algebraic Geometry Workshop [[slide](/talk/pdf/utsunomiya2022.pdf)] |
-| | Mar 2022 | An explicit construction of derived moduli stacks of Harder–Narasimhan filtrations | 18th Mathematics Workshop for Young Researcher [[report](/talk/pdf/wakatehokudai.pdf)] |
+| | Mar 2022 | An explicit construction of derived moduli stacks of Harder–Narasimhan filtrations | 3rd Utsunomiya Algebraic Geometry Workshop [[slide](talk/pdf/utsunomiya2022.pdf)] |
+| | Mar 2022 | An explicit construction of derived moduli stacks of Harder–Narasimhan filtrations | 18th Mathematics Workshop for Young Researcher [[report](talk/pdf/wakatehokudai.pdf)] |
 | | Mar 2021 | Classifying the irreducible components of moduli stacks of torsion–free sheaves on K3 surfaces... | Annual Meeting of the Mathematical Society of Japan 2021 |
-| | Oct 2020 | Classifying the irreducible components of moduli stacks of torsion–free sheaves on K3 surfaces... | Kinosaki Symposium on Algebraic Geometry [[slide](/talk/pdf/kinosaki20201021.pdf)] |
-| | Feb 2021 | Classifying the irreducible components of moduli stacks of torsion–free sheaves on K3 surfaces... | 8th Mathematical Seminar for New Researchers [[slide](/talk/pdf/suurishinzin.pdf)] |
+| | Oct 2020 | Classifying the irreducible components of moduli stacks of torsion–free sheaves on K3 surfaces... | Kinosaki Symposium on Algebraic Geometry [[slide](talk/pdf/kinosaki20201021.pdf)] |
+| | Feb 2021 | Classifying the irreducible components of moduli stacks of torsion–free sheaves on K3 surfaces... | 8th Mathematical Seminar for New Researchers [[slide](talk/pdf/suurishinzin.pdf)] |
 | | Sep 2019 | On the Dimension of Algebraic Stacks – Motivated by Moduli Spaces of Sheaves and Vector Bundles | 2nd Utsunomiya Algebraic Geometry Workshop |
 
 </div>

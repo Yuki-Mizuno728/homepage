@@ -20,7 +20,7 @@ title: 'About me'
 
 
 Here is brief introduction of me．
-The complete my CV is [here](/pdf/cv_20260416.pdf).
+The complete my CV is [here](pdf/cv_20260416.pdf).
 
 ---
 
