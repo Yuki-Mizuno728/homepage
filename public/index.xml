@@ -6,7 +6,7 @@
     <description>Recent content in Home on Yuki Mizuno&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 13:15:47 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:19:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
@@ -60,10 +60,10 @@ The complete my CV is &lt;a href=&#34;http://localhost:1313/homepage/pdf/cv_2026
 &lt;p&gt;&lt;strong&gt;Teaching Experience&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Researches</title>
-      <link>http://localhost:1313/homepage/researches/</link>
+      <title>Research</title>
+      <link>http://localhost:1313/homepage/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/researches/</guid>
+      <guid>http://localhost:1313/homepage/research/</guid>
       <description>&lt;style&gt;
  /* 2. 横幅を広げる設定 */
   /* サイトのメインコンテナ自体の幅を広げます（標準は720px程度） */
