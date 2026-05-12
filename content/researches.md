@@ -1,7 +1,7 @@
 ---
 # date: '2026-05-10T23:41:35+02:00'
 draft: false
-title: 'Papers'
+title: 'Researches'
 ---
 
 <style>

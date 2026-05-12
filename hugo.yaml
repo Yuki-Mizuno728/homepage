@@ -28,8 +28,8 @@ menu:
     - name: "About me"
       url: "/cv/"
       weight: 20
-    - name: "Papers"
-      url: "/papers/"
+    - name: "Researches"
+      url: "/researches/"
       weight: 30
     - name: "Talks"
       url: "/talks/"
