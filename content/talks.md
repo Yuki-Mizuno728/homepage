@@ -44,6 +44,7 @@ Here is the list of my previous talks.
 
 | # | Date | Title | Event / Venue |
 | :--- | :--- | :--- | :--- |
+| | My 27, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Tokyo-Nagayo Algebra Seminar, Online|
 | | Apr 13, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Disquisitions on Monoidal Categories and Operads, BIMSA |
 | | Mar 10, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Algebraic Geometry Seminar, Utrecht University |
 | | Feb 23, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Paris algebra seminar, Institut Henri Poincaré |
