@@ -44,7 +44,7 @@ Here is the list of my previous talks.
 
 | # | Date | Title | Event / Venue |
 | :--- | :--- | :--- | :--- |
-| | My 27, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Tokyo-Nagayo Algebra Seminar, Online|
+| | My 27, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Tokyo-Nagayo Algebra Seminar, Online [[slide](/homepage/talk/pdf/tokyo-nagoya-algebra-seminar.pdf)]|
 | | Apr 13, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Disquisitions on Monoidal Categories and Operads, BIMSA |
 | | Mar 10, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Algebraic Geometry Seminar, Utrecht University |
 | | Feb 23, 2026 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Paris algebra seminar, Institut Henri Poincaré |
@@ -53,7 +53,7 @@ Here is the list of my previous talks.
 | | Jul 14 – Aug 1, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | 2025 Summer Research Institute in Algebraic Geometry, Colorado State University [[slide](/homepage/talk/pdf/mizuno_week2_roomA-ver2.pdf)] |
 | | Jul 5–6, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Calabi–Yau Varieties and Related Topics 2025, Tsuda University [[slide](/homepage/talk/pdf/tsuda2.pdf)] |
 | | Mar 18–21, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | The Mathematical Society of Japan, Spring Meeting 2025 [[slide](/homepage/talk/pdf/waseda2-2.pdf)] |
-| | Mar 3–7, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Hokkaido University [[report](/talk/pdf/mizuno_yuki.pdf)] [[slide](/homepage/talk/pdf/hokkaido4_round.pdf)] |
+| | Mar 3–7, 2025 | Bondal–Orlov’s reconstruction theorem in noncommutative projective geometry | Hokkaido University [[report](/homepage/talk/pdf/mizuno_yuki.pdf)] [[slide](/homepage/talk/pdf/hokkaido4_round.pdf)] |
 | | Aug 21–23, 2024 | Bridgeland moduli spaces of a del Pezzo surface of Picard rank 3 | 5th Utsunomiya University Algebraic Geometry Workshop |
 | | Nov 20, 2023 | Some examples of noncommutative projective Calabi–Yau schemes | Osaka Algebraic Geometry Seminar, Osaka University |
 | | Jul 3–7, 2023 | The Projectivity of Bridgeland Moduli Spaces of del Pezzo Surface of Picard Rank Three, Derived Categories, Moduli Spaces, and Counting Invariants | Imperial College London (Poster presentation) |
