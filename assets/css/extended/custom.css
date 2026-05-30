@@ -1,5 +1,5 @@
 .home-social-footer {
-  margin-top: 1.2rem;
+  margin-top: 2rem;
   text-align: center;
 }
 
@@ -9,6 +9,10 @@
   justify-content: center;
   color: var(--secondary);
   text-decoration: none;
+}
+
+.home-social-footer a:hover {
+  color: var(--primary);
 }
 
 .home-social-footer svg {
