@@ -10,7 +10,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/homepage/tags/">
-<link crossorigin="anonymous" href="/homepage/assets/css/stylesheet.a1a1b118b3e83435265dc39da18e54244bcc0e5481d1d034aadc0c899c51e15c.css" integrity="sha256-oaGxGLPoNDUmXcOdoY5UJEvMDlSB0dA0qtwMiZxR4Vw=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/homepage/assets/css/stylesheet.be71825949b8bbeaa3ef549d97c52ea8dbccf01c80b9dd956f48cd3d6069fb5a.css" integrity="sha256-vnGCWUm4u&#43;qj71Sdl8UuqNvM8ByAud2Vb0jNPWBp&#43;1o=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/homepage/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/homepage/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/homepage/favicon-32x32.png">
@@ -145,7 +145,40 @@
         <polyline points="17 11 12 6 7 11"></polyline>
         <polyline points="17 18 12 13 7 18"></polyline>
     </svg>
-</a>
+</a><div class="home-social-footer">
+  <a href="https://github.com/yuki-mizuno728"
+     target="_blank"
+     rel="noopener noreferrer"
+     title="GitHub"
+     aria-label="GitHub">
+    <svg viewBox="0 0 16 16" width="24" height="24" aria-hidden="true">
+      <path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82A7.65 7.65 0 0 1 8 3.86c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/>
+    </svg>
+    <span>GitHub</span>
+  </a>
+</div>
+
+<style>
+.home-social-footer {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.home-social-footer a {
+  display: inline-flex;
+  gap: 0.4rem;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.home-social-footer svg {
+  width: 22px;
+  height: 22px;
+}
+</style>
 
 <script>
     let menu = document.getElementById('menu');
