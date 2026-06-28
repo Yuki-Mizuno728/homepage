@@ -25,7 +25,8 @@ title: 'Home'
 
 I am a postdoctoral researcher at Utrecht University in the Netherlands in the research group of Pieter Belmans from February 2026.
 Previously, I was an assistant professor at Waseda University in Tokyo, Japan from October 2024 to January 2026.
-My CV is [here](pdf/cv_20260416.pdf).
+My CV is [here](pdf/Yuki_Mizuno_CV.pdf).
+
 <!-- My research interests lie in Algebraic geometry and related fields.
  In particular, I am interested in noncommutative algebraic geometry, moduli spaces of sheaves, derived categories, derived algebraic geometry, generalized complex geometry, Calabi-Yau manifolds and Mirror symmetry. -->
 		 
