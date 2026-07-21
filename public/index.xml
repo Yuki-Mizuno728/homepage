@@ -6,7 +6,7 @@
     <description>Recent content in Home on Yuki Mizuno&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 15:58:29 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 13:45:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
@@ -27,7 +27,7 @@
   */
 &lt;/style&gt;
 &lt;p&gt;Here is brief introduction of me．
-The complete my CV is &lt;a href=&#34;http://localhost:1313/homepage/pdf/cv_20260416.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+The complete my CV is &lt;a href=&#34;http://localhost:1313/homepage/pdf/Yuki_Mizuno_CV.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Short CV&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -85,8 +85,8 @@ The complete my CV is &lt;a href=&#34;http://localhost:1313/homepage/pdf/cv_2026
 &lt;li&gt;Bondal-Orlov’s reconstruction theorem in noncommutative projective geometry: &lt;a href=&#34;http://localhost:1313/homepage/papers/pdf/paper4-5.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2411.07813&#34;&gt;arXiv&lt;/a&gt;
  &lt;!-- 非可換射影スキームの導来圏の間の忠実充満な三角関手がFourier-Mukai型であることを示し，それを用いて，非可換射影幾何学においてBondal-Orlovのreconstructionが成立することを示しました．--&gt;
 &lt;/li&gt;
-&lt;li&gt;An explicit construction of the derived moduli stack of Harder-Narasimhan filtrations:  &lt;a href=&#34;http://localhost:1313/homepage/papers/pdf/2mizuno1-1.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2202.07494&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Some examples of noncommutative projective Calabi-Yau schemes, &lt;a href=&#34;https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/some-examples-of-noncommutative-projective-calabiyau-schemes/C3CA669551172DDA59085639A0D3A6E1&#34;&gt;Canad. Math. Bull, vol 67 p706-p726&lt;/a&gt;: &lt;a href=&#34;http://localhost:1313/homepage/papers/pdf/3mizuno27.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2209.12190&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;An explicit construction of the derived moduli stack of Harder-Narasimhan filtrations:  &lt;a href=&#34;http://localhost:1313/homepage/papers/pdf/2mizuno1-1.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2202.07494&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Classifying the irreducible components of moduli stacks of torsion free sheaves on K3 surfaces and an application to Brill-Noether theory, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0393044022001577%22&#34;&gt;J. Geom. Phys 179 (2022)&lt;/a&gt;: &lt;a href=&#34;http://localhost:1313/homepage/papers/pdf/mizuno1.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2011.07521&#34;&gt;arXiv&lt;/a&gt;
  &lt;!--	&lt;a href=&#34;https://authors.elsevier.com/a/1fIIn1PNYnJ-%7Ef&#34;&gt;こちら&lt;/a&gt;から8/12まで見れます．--&gt;
 &lt;/li&gt;
