@@ -18,7 +18,7 @@ title: 'Home'
   */
 </style>
 
-<img src="images/myself202607.jpeg" style="float: right; width: 180px; margin-left: 20px; border-radius: 8px;">
+<img src="images/myself202608-3.jpeg" style="float: right; width: 180px; margin-left: 20px; border-radius: 8px;">
 
 ### Yuki Mizuno (水野 雄貴)
 <!-- **Postdoctoral Researcher** [Mathematical Institute, Utrecht University](https://www.uu.nl/en/organisation/mathematical-institute) -->
