@@ -81,6 +81,7 @@ Here is the list of seminars or conferences which I am organizing or organized.
 
 | Date | Event | Location |
 | :--- | :--- | :--- |
+| Sep 2026 – present | [Algebraic Geometry Seminar @ Utrecht University](https://uu-ag.ncag.info) | Utrecht University |
 | Aug 21–23, 2024 | The 5th Utsunomiya University Symposium on Algebraic Geometry | Utsunomiya University |
 | Feb 27 – Mar 1, 2024 | [The 28th Young Algebraists' Workshop](https://sites.google.com/view/daisuuwakate2023) | Waseda University |
 | Apr 2024 – Jan 2026 | [都の西北代数幾何学セミナー](https://sites.google.com/view/waseda-ag-seminar/) | Waseda University |

@@ -23,7 +23,7 @@ title: 'Research'
 
 Here is the list of my papers and preprints 
 
-1. Dualizing complexes over Z-algebras:  [pdf](/homepage/papers/pdf/paper5-6_overleaf.pdf), [arXiv](https://arxiv.org/abs/2509.13073) 
+1. Dualizing complexes over Z-algebras, [J. Algebra (in press)](https://doi.org/10.1016/j.jalgebra.2026.07.027):  [pdf](/homepage/papers/pdf/paper5-6_overleaf.pdf), [arXiv](https://arxiv.org/abs/2509.13073) 
 1. Bridgeland Stability of Sheaves on del Pezzo Surfaces of Picard Rank Three :  <!--<a href="pdf/paper4-5.pdf "> PDF</a>,--> [arXiv](https://arxiv.org/abs/2502.18894), (joint work with Tomoki Yoshida)
 1. Bondal-Orlov’s reconstruction theorem in noncommutative projective geometry: [pdf](/homepage/papers/pdf/paper4-5.pdf), [arXiv](https://arxiv.org/abs/2411.07813)
 	<!-- 非可換射影スキームの導来圏の間の忠実充満な三角関手がFourier-Mukai型であることを示し，それを用いて，非可換射影幾何学においてBondal-Orlovのreconstructionが成立することを示しました．-->
