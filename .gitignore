@@ -1,0 +1,7 @@
+# Hugo build output (GitHub Actions builds this from source on every push)
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# macOS
+.DS_Store
